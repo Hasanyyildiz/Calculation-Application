@@ -1,0 +1,28 @@
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\Program1\bin\Debug\Program1.exe.config
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\Program1\bin\Debug\Program1.exe
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\Program1\bin\Debug\Program1.pdb
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\Program1\obj\Debug\Program1.exe
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\Program1\obj\Debug\Program1.pdb
+C:\Users\hy078\OneDrive\Masaüstü\Program1\bin\Debug\Program1.exe.config
+C:\Users\hy078\OneDrive\Masaüstü\Program1\bin\Debug\Program1.exe
+C:\Users\hy078\OneDrive\Masaüstü\Program1\bin\Debug\Program1.pdb
+C:\Users\hy078\OneDrive\Masaüstü\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\hy078\OneDrive\Masaüstü\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\hy078\OneDrive\Masaüstü\Program1\obj\Debug\Program1.exe
+C:\Users\hy078\OneDrive\Masaüstü\Program1\obj\Debug\Program1.pdb
+C:\Users\hy078\OneDrive\Masaüstü\Hesaplama Uygulaması\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\hy078\OneDrive\Masaüstü\Hesaplama Uygulaması\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\hy078\OneDrive\Masaüstü\Hesaplama Uygulaması\obj\Debug\Program1.exe
+C:\Users\hy078\OneDrive\Masaüstü\Hesaplama Uygulaması\obj\Debug\Program1.pdb
+C:\Users\hy078\OneDrive\Masaüstü\Hesaplama Uygulaması\bin\Debug\Program1.exe.config
+C:\Users\hy078\OneDrive\Masaüstü\Hesaplama Uygulaması\bin\Debug\Program1.exe
+C:\Users\hy078\OneDrive\Masaüstü\Hesaplama Uygulaması\bin\Debug\Program1.pdb
+C:\Users\hy078\OneDrive\Masaüstü\Hesaplama-Uygulamasi\Hesaplama Uygulaması\bin\Debug\Program1.exe.config
+C:\Users\hy078\OneDrive\Masaüstü\Hesaplama-Uygulamasi\Hesaplama Uygulaması\bin\Debug\Program1.exe
+C:\Users\hy078\OneDrive\Masaüstü\Hesaplama-Uygulamasi\Hesaplama Uygulaması\bin\Debug\Program1.pdb
+C:\Users\hy078\OneDrive\Masaüstü\Hesaplama-Uygulamasi\Hesaplama Uygulaması\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\hy078\OneDrive\Masaüstü\Hesaplama-Uygulamasi\Hesaplama Uygulaması\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\hy078\OneDrive\Masaüstü\Hesaplama-Uygulamasi\Hesaplama Uygulaması\obj\Debug\Program1.exe
+C:\Users\hy078\OneDrive\Masaüstü\Hesaplama-Uygulamasi\Hesaplama Uygulaması\obj\Debug\Program1.pdb
